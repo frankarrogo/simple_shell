@@ -7,4 +7,4 @@
 void get_sigint(int sig)
 {
 	(void)sig;
-	
+}
